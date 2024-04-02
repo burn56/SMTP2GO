@@ -28,13 +28,13 @@ function Set-SMTP2GOCredentials {
         [string]$Password,
         [string]$PhoneNumber,
         [string]$Carrier,
-		[string]$From
+	[string]$From
     )
     $script:SMTP2GOUsername = $Username
     $script:SMTP2GOPassword = $Password
     $script:SMTP2GOTxtMe = $PhoneNumber
     $script:SMTP2GOCarrier = $Carrier
-	$script:SMTP2GOFrom = $From
+    $script:SMTP2GOFrom = $From
 }
 function Get-CarrierEmailMappings {
     return @{
