@@ -18,7 +18,7 @@ ModuleVersion = '1.0.0'
 CompatiblePSEditions = @('Desktop', 'Core')
 
 # ID used to uniquely identify this module
-GUID = '9ff42527-5adb-4004-b7fb-4d700aad397a'
+GUID = '7c119c3e-3c87-48f1-9387-e56c22fa0c3f'
 
 # Author of this module
 Author = 'Matt Urbano'
