@@ -13,7 +13,7 @@ This PowerShell module provides a simple interface for sending emails and text m
 ### Prerequisites
 
 - PowerShell 5.1 or later.
-- An active SMTP2GO account with API credentials.
+- An active [SMTP2GO](https://www.smtp2go.com/) account with API credentials.
 
 ### Installation
 
